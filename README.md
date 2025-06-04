@@ -49,26 +49,3 @@ personel
            ├── memur
            └── teknikPersonel
 
-4. Değerlendirme Ölçütleri
-
-| Kriter                                       | Puan |
-|----------------------------------------------|------|
-| Ders içinde görülen konuların uygulanması   | 40   |
-| Yorumlarla açıklayıcılık ve dökümantayon    | 15   |
-| Fonksiyon işlevselliği                       | 25   |
-| Kod kalitesi                                 | 20   |
-| **Toplam:**                                  | **100** |
-
-5. Teslim Şekli
-
-Ödevin 4 Haziran 2025 23:00 tarihine kadar online.deu.edu.tr adresinden iletilmesi istenmektedir.
-
-Ödev kodlarınız ile beraber proje dökümanı yüklemeniz beklenmektedir.
-
-Öğrenci numaranız içinde dosyaları sıkıştırarak (örneğin 2016800648.rar) dosyalarınızı sisteme yükleyebilirsiniz. Proje dokümanınızda kapak sayfası, öğrenci bilgileriniz ve kodlarınızı açıklamanız beklenmektedir. Yüklenen kod içinde kodlar ve dokümantasyon adında iki klasör içinde istenen dosyaları bulundurunuz.
-
-Ödev yüklemesinin geciktirildiği her gün için puanınız 10 puan düşülecektir.
-
-Herhangi bir sorunuz için muhammet.damar@deu.edu.tr adresine mail atabilir veya hocanız ile iletişime geçebilirsiniz.
-
-Başarılar dileriz.
